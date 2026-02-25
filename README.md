@@ -16,9 +16,4 @@
 
 <hr>
 <h3 align="left">My status :bar_chart:</h3>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sun-sh1nee&show_icons=true&locale=en&layout=compact" alt="sun-sh1nee" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sun-sh1nee&show_icons=true&locale=en" alt="sun-sh1nee" /></p>
-
 <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/sun-sh1nee?theme=dark&font=Autour%20One&ext=heatmap" alt="sun-sh1nee" /></p>
